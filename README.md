@@ -1,2 +1,2 @@
 # static
-static CDN
+static CDN 2019
